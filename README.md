@@ -16,7 +16,7 @@ Copilot e OpenArt.
 
 ## 🧐 Processo de Criação
 Pesquisa baseada numa 'suposta' visita feita por Salvador Dali (1904-1989) às Cataratas do Iguaçu no Brasil, na década de 60.
-https://github.com/bids-work/lab-natty-or-not/blob/main/salvador%20dali%20em%20foz%2003.jpg
+(https://github.com/bids-work/lab-natty-or-not/blob/main/salvador%20dali%20em%20foz%2003.jpg)
 
 https://github.com/bids-work/lab-natty-or-not/blob/main/salvador%20dali%20em%20foz%2002.jpg
 
