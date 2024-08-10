@@ -34,6 +34,6 @@ Autoretrato de Salvador Dali em produção
 
 ## 💭 Reflexão
 Brincadeiras à parte, desafio interessante para aprofundarmos na utilização das ferramentas de IA generativas. Natural ou Fake Natty? True or Lie? Believe or Not?
-"A imagem fala mais do que 1.000 palavras".🧐
+"Uma imagem fala mais do que 1.000 palavras".🧐
 
 ```
