@@ -33,7 +33,7 @@ Autoretrato de Salvador Dali em produção (#SQN)
 ![obra](https://github.com/bids-work/lab-natty-or-not/blob/main/salvador%20dali%20-%20foz%2005.jpg)
 
 ## 💭 Reflexão
-Brincadeiras à parte, desafio interessante para aprofundarmos na utilização das ferramentas de IA generativas. Natural ou Fake Natty? True or Lie? Believe or Not?
+Brincadeiras à parte e com muito respeito à memória e arte de Dali e Canadá (Niagara Falls deve ser maravilhoso também!), desafio interessante para aprofundarmos na utilização das ferramentas de IA generativas. Natural ou Fake Natty? True or Lie? Believe or Not?
 "Uma imagem fala mais do que 1.000 palavras".🧐
 
 ```
