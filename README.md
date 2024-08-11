@@ -9,24 +9,24 @@ Devemos acreditar em tudo que vemos?
 # DALI (não é DALL-E!) visitou ou não visitou?
 
 ## 📒 Descrição
-Imagens geradas por IA através de prompts, para suscitar um 'suposto' debate se Salvador Dali esteve ou não no Brasil?
+Imagens geradas por IA através de prompts, para suscitar um 'suposto' debate se Salvador Dali esteve ou não no Brasil (#SQN)?
 
 ## 🤖 Tecnologias Utilizadas
 Copilot e OpenArt.
 
 ## 🧐 Processo de Criação
-Pesquisa baseada numa 'suposta' visita feita por Salvador Dali (1904-1989) às Cataratas do Iguaçu no Brasil, na década de 60.
+Pesquisa baseada numa 'suposta' visita feita por Salvador Dali (1904-1989) às Cataratas do Iguaçu no Brasil, na década de 50 (#SQN).
 
-Foto que comprova!
+Foto que comprova! (#SQN)
 
 ![Dali foto](https://github.com/bids-work/lab-natty-or-not/blob/main/salvador%20dali%20em%20foz%2003.jpg)
 
-Autoretrato de Salvador Dali em produção
+Autoretrato de Salvador Dali em produção (#SQN)
 
 ![Dali self portrait](https://github.com/bids-work/lab-natty-or-not/blob/main/salvador%20dali%20em%20foz%2002.jpg)
 
 ## 🚀 Resultados
- Na ocasião, criou a obra (nunca publicada🤦‍♂️) intitulada:
+ Na ocasião, criou (#SQN) a obra (nunca publicada🤦‍♂️) intitulada:
  
  **Iguacu Falls better than Niagara Falls**😂
  
